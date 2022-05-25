@@ -4,7 +4,6 @@
 - 1차 설문조사 결과: [뇌영상연구회 연구주제 목록](https://docs.google.com/spreadsheets/d/1qj2SskW8Huc5Fnn7bKa-kMyRfve9biJTYXYvL9Srtxg/edit?usp=sharing)
 
 -- 흥미로운 논문 
-접기/펼치기 버튼
 
 <details>
 <summary> Simon Thibault, Raphaël Py, Angelo Mattia Gervasi, Romeo Salemme, Eric Koun, Martin Lövden, Véronique Boulenger, Alice C. Roy, Claudio Brozzoli, "Tool use and language share syntactic processes and neural patterns in the basal ganglia", Science, 2021 </summary>
@@ -26,4 +25,31 @@ Abstract: Generalizing experiences to guide decision-making in novel situations 
 Abstract: Human categorization is one of the most important and successful targets of cognitive modeling, with decades of model development and assessment using simple, low-dimensional artificial stimuli. However, it remains unclear how these findings relate to categorization in more natural settings, involving complex, high-dimensional stimuli. Here, we take a step towards addressing this question by modeling human categorization over a large behavioral dataset, comprising more than 500,000 judgments over 10,000 natural images from ten object categories. We apply a range of machine learning methods to generate candidate representations for these images, and show that combining rich image representations with flexible cognitive models captures human decisions best. We also find that in the high-dimensional representational spaces these methods generate, simple prototype models can perform comparably to the more complex memory-based exemplar models dominant in laboratory settings.
 </div>
 </details>
+
+<details>
+<summary> Abhiram Iyer, Karan Grewal, Akash Velu, Lucas Oliveira Souza, Jeremy Forest, Subutai Ahmad, "Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments", Frontiers in Neurorobotics, 2022 </summary>
+ <div markdown="1">
+Abstract: A key challenge for AI is to build embodied systems that operate in dynamically changing environments. Such systems must adapt to changing task contexts and learn continuously. Although standard deep learning systems achieve state of the art results on static benchmarks, they often struggle in dynamic scenarios. In these settings, error signals from multiple contexts can interfere with one another, ultimately leading to a phenomenon known as catastrophic forgetting. In this article we investigate biologically inspired architectures as solutions to these problems. Specifically, we show that the biophysical properties of dendrites and local inhibitory systems enable networks to dynamically restrict and route information in a context-specific manner. Our key contributions are as follows: first, we propose a novel artificial neural network architecture that incorporates active dendrites and sparse representations into the standard deep learning framework. Next, we study the performance of this architecture on two separate benchmarks requiring task-based adaptation: Meta-World, a multi-task reinforcement learning environment where a robotic agent must learn to solve a variety of manipulation tasks simultaneously; and a continual learning benchmark in which the model's prediction task changes throughout training. Analysis on both benchmarks demonstrates the emergence of overlapping but distinct and sparse subnetworks, allowing the system to fluidly learn multiple tasks with minimal forgetting. Our neural implementation marks the first time a single architecture has achieved competitive results in both multi-task and continual learning settings. Our research sheds light on how biological properties of neurons can inform deep learning systems to address dynamic scenarios that are typically impossible for traditional ANNs to solve.
+</div>
+</details>
+
+
+<details>
+<summary> Abhiram Iyer, Karan Grewal, Akash Velu, Lucas Oliveira Souza, Jeremy Forest, Subutai Ahmad, "Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments", Frontiers in Neurorobotics, 2022 </summary>
+ <div markdown="1">
+Abstract: A key challenge for AI is to build embodied systems that operate in dynamically changing environments. Such systems must adapt to changing task contexts and learn continuously. Although standard deep learning systems achieve state of the art results on static benchmarks, they often struggle in dynamic scenarios. In these settings, error signals from multiple contexts can interfere with one another, ultimately leading to a phenomenon known as catastrophic forgetting. In this article we investigate biologically inspired architectures as solutions to these problems. Specifically, we show that the biophysical properties of dendrites and local inhibitory systems enable networks to dynamically restrict and route information in a context-specific manner. Our key contributions are as follows: first, we propose a novel artificial neural network architecture that incorporates active dendrites and sparse representations into the standard deep learning framework. Next, we study the performance of this architecture on two separate benchmarks requiring task-based adaptation: Meta-World, a multi-task reinforcement learning environment where a robotic agent must learn to solve a variety of manipulation tasks simultaneously; and a continual learning benchmark in which the model's prediction task changes throughout training. Analysis on both benchmarks demonstrates the emergence of overlapping but distinct and sparse subnetworks, allowing the system to fluidly learn multiple tasks with minimal forgetting. Our neural implementation marks the first time a single architecture has achieved competitive results in both multi-task and continual learning settings. Our research sheds light on how biological properties of neurons can inform deep learning systems to address dynamic scenarios that are typically impossible for traditional ANNs to solve.
+</div>
+</details>
+
+
+<details>
+<summary> Kohei Sakaki, Takayuki Nozawa, Shigeyuki Ikeda, Ryuta Kawashima, "Neural correlates of cognitive bias modification for interpretation", Social Cognitive and Affective Neuroscience, 2020 </summary>
+ <div markdown="1">
+Abstract: The effectiveness of cognitive bias modification for interpretation (CBM-I), a treatment method employed to reduce social anxiety (SA), has been examined. However, the neural correlates of CBM-I remain unclear, and we aimed to elucidate brain activities during intervention and activity changes associated with CBM-I effectiveness in a pre–post intervention comparison. Healthy participants divided into two groups (CBM, control) were scanned before, during and after intervention using functional magnetic resonance imaging. Ambiguous social situations followed by positive outcomes were repeatedly imagined by the CBM group during intervention, while half of the outcomes in the control group were negative. Whole-brain analysis revealed that activation of the somatomotor and somatosensory areas, occipital lobe, fusiform gyrus and thalamus during intervention was significantly greater in the CBM than in the control group. Furthermore, altered activities in the somatomotor and somatosensory areas, occipital lobe and posterior cingulate gyrus during interpreting ambiguous social situations showed a significant group × change in SA interaction. Our result suggests that when facing ambiguous social situations, positive imagery instilled by CBM-I is recalled, and interpretations are modified to contain social reward. These findings may help to suggest an alternative manner of enhancing CBM-I effectiveness from a cognitive-neuroscience perspective.
+</div>
+</details>
+
+
+
+
 
